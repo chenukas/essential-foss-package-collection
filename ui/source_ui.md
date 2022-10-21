@@ -8,3 +8,4 @@
 | SAP Fiori Design System | https://experience.sap.com/fiori-design/ | https://experience.sap.com/fiori-design-android/get-started/ |
 | Salesforce | https://www.lightningdesignsystem.com | https://www.lightningdesignsystem.com/getting-started/ |
 | Workday Canvas Design System | https://design.workday.com | https://github.com/workday/canvas-kit |
+| TailwindCSS | https://tailwindcss.com/docs/installation | https://www.npmjs.com/package/tailwindcss |
